@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.allvideodownloader.hdvideodownloader.bestvideodownloaderapp.myapplication"
+        applicationId "com.allvideodownloader.hddownloader.bestvideodownloaderapp.myapplication"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

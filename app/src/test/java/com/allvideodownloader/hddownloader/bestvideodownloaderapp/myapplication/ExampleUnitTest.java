@@ -1,4 +1,4 @@
-package com.allvideodownloader.hdvideodownloader.bestvideodownloaderapp.myapplication;
+package com.allvideodownloader.hddownloader.bestvideodownloaderapp.myapplication;
 
 import org.junit.Test;
 
